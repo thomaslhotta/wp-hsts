@@ -1,0 +1,16 @@
+{
+    "name": "thomaslhotta/wp-hsts",
+    "description": "Simple plugin that adds HTTP Strict Transport Security headers to WordPress.",
+    "license": "GPL-3.0",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Thomas Lhotta",
+            "email": "th.lhotta@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fancyguy/webroot-installer": "1.1.0"
+    }
+}
